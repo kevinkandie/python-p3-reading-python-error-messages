@@ -14,6 +14,7 @@ class TestNameError:
 
         runpy.run_path('lib/a_name_error.py')
 
+
 class TestSyntaxError:
     '''
     a_syntax_error.py
